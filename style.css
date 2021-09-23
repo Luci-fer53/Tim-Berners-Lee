@@ -1,0 +1,60 @@
+.line{
+    height:5px;
+    width:50px;
+    background-color:black;
+    margin-left:643px;
+    margin-right:100px;
+}
+body{
+    text-align: center;
+    font-family: cursive;
+}
+#welcome{
+    background:linear-gradient(#60ebeb 0%, #27ae60 100%);
+    position:absolute;
+    height:800px;
+    display:table;
+    width:100%;
+    height:80%;
+    z-index:9;
+    left:0;
+    top:0;
+    bottom:0;
+    right:0;
+}
+.lily{
+    border-radius:900px;
+    width:300px;
+    height:400px;
+}
+img{
+    border:dotted;
+    padding:5px;
+}
+.Sweety{
+    border:dotted;
+    padding:5px;
+    font-family:'Comic Neue', cursive;
+    position:fixed;
+    z-index:10;
+    top:5px;
+    list-style:none;
+}
+html{
+    scroll-behavior:smooth;
+}
+.parallax-inner{
+    display:table-cell;
+    position:relative;
+}
+.link{
+    float:right;
+    border:dotted;
+    padding:5px;
+} .link:hover{
+    background-color:greenyellow;
+}
+#bio{
+    margin-top:50%;
+    color:darkgreen;
+}
