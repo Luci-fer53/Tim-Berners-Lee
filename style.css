@@ -39,6 +39,7 @@ img{
     z-index:10;
     top:5px;
     list-style:none;
+    background-color:darkseagreen;
 }
 html{
     scroll-behavior:smooth;
@@ -57,4 +58,7 @@ html{
 #bio{
     margin-top:50%;
     color:darkgreen;
+}
+.bruno{
+    background-color:darkseagreen;
 }
